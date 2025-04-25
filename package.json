@@ -1,0 +1,30 @@
+{
+	"name": "ya-api-automation",
+	"version": "1.0.0",
+	"description": "API Automation Tests for The Cat API",
+	"main": "index.js",
+	"scripts": {
+		"test": "jest"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/hanimall/YA-API-Automation.git"
+	},
+	"keywords": [],
+	"author": "Hani BOURAS",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/hanimall/YA-API-Automation/issues"
+	},
+	"homepage": "https://github.com/hanimall/YA-API-Automation#readme",
+	"dependencies": {
+		"axios": "^1.9.0",
+		"dotenv": "^16.5.0"
+		},
+		"devDependencies": {
+			"jest": "^29.7.0"
+		},
+		"jest": {
+			"testEnvironment": "node"
+		}
+}
