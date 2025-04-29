@@ -26,9 +26,6 @@ jobs:
     - name: Install dependencies
       run: npm install
     
-    - name: List installed packages
-      run: npm list --depth=0
-    
     - name: Run tests
       env:
         CAT_API_KEY: ${{ secrets.CAT_API_KEY }}

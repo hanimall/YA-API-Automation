@@ -98,8 +98,8 @@ npm test
 
 ## Author
 
-- [Hani BOURAS]
-- [han.bouras@gmail.com]
+- Hani BOURAS
+- han.bouras@gmail.com
 
 ---
 
